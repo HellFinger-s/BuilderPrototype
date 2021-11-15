@@ -4,7 +4,7 @@
 ### **Technologies used**
   In development I used:
   * Unity game engine
-  * C programming language#
+  * C# programming language#
 ### [Link on demostration video](https://hellfinger-s.github.io/me/testBuilderVideo.html)
 ### do not try to build the game from this project, when transferring to github, some important files remained on the media
 
