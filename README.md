@@ -1,6 +1,6 @@
 # BuilderPrototype
 ### **Description**
-  This project was made based on a [test task]() that I found in one of the chats. I also added the preservation of constructed buildings and reduced the construction time/one work cycle to speed up the process.
+  This project was made based on a [test task](https://github.com/HellFinger-s/BuilderPrototype/blob/master/taskEn.png) that I found in one of the chats. I also added the preservation of constructed buildings and reduced the construction time/one work cycle to speed up the process.
 ### **Technologies used**
   In development I used:
   * Unity game engine
@@ -13,7 +13,7 @@
 
 # Прототип строителя
 ### **Описание**
-   Этот проект был сделан по [тестовому заданию](), найденному мною в одном из чатов. Так же я добавил сохранение построенных зданий и сократил время на строительство/один рабочий цикл для ускорения процесса
+   Этот проект был сделан по [тестовому заданию](https://github.com/HellFinger-s/BuilderPrototype/blob/master/taskRu.png), найденному мною в одном из чатов. Так же я добавил сохранение построенных зданий и сократил время на строительство/один рабочий цикл для ускорения процесса
 ### **Используемые технологии**
    В разработке я использовал:
    * Игровой движок Unity
